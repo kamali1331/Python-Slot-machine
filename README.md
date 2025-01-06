@@ -17,10 +17,14 @@
  # This project not only improves your programming skills but also teaches you about probability, user interfaces, and game mechanics in a fun and interactive way.
   
  # Key features of the project 
+ # Reels and Symbols: Simulate reels with random symbols like fruits, numbers, or icons.
+ # Betting System: Allow users to place bets and manage their balance.
+ # Winning Conditions: Define rules for determining wins, such as matching symbols or patterns.
+ # Feedback: Display outcomes and winnings to the user after each spin.
+ # This project involves building a text-based version of a slot machine game that allows users to place bets, spin reels, and win or lose based on the outcome.
 
-# Reels and Symbols: Simulate reels with random symbols like fruits, numbers, or icons.
-# Betting System: Allow users to place bets and manage their balance.
-# Winning Conditions: Define rules for determining wins, such as matching symbols or patterns.
-# Feedback: Display outcomes and winnings to the user after each spin.
-# This project involves building a text-based version of a slot machine game that allows users to place bets, spin reels, and win or lose based on the outcome.
+ 
+  
+
+
 
